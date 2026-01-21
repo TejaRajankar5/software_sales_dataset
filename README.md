@@ -63,10 +63,6 @@ The project is ideal for:
 
 ## 📈 Dashboards
 ### Sales Performance Overview
-- Total Sales
-- Total Profit
-- Sales by Region
-- Monthly Sales Trend
 <img width="1119" height="629" alt="software_sales_datasets_dashboard" src="https://github.com/user-attachments/assets/00ba1a13-a8a9-4bce-a43c-90d3626a7e8b" />
 
 
