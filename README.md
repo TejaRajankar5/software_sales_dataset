@@ -1,5 +1,5 @@
 # 💻 Software Sales Analysis Project
-
+![Project image](Image.jpg)
 ## 📌 Project Description
 This project focuses on analyzing **software sales data** to gain insights into revenue, customer segments, regions, product performance, and sales trends.  
 The dataset is structured and cleaned to support analysis and dashboard creation using **Excel, Tableau, or Power BI**.
